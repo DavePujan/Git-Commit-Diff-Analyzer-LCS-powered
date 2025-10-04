@@ -1,0 +1,12 @@
+file,len_a,len_b,lcs_len,added,removed,similarity
+README.md,24,24,24,0,0,100.0
+__pycache__/git_utils.cpython-313.pyc,66,66,66,0,0,100.0
+__pycache__/lcs_algo.cpython-313.pyc,85,85,85,0,0,100.0
+__pycache__/reporter.cpython-313.pyc,74,74,74,0,0,100.0
+git_utils.py,37,37,37,0,0,100.0
+lcs_algo.py,55,55,55,0,0,100.0
+reporter.py,38,38,38,0,0,100.0
+requirements.txt,5,5,5,0,0,100.0
+streamlit_app.py,141,141,141,0,0,100.0
+tests/test.txt,0,11,0,11,0,0.0
+tests/test_lcs.py,9,9,9,0,0,100.0

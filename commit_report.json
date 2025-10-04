@@ -1,0 +1,97 @@
+{
+  "commit_a": "389afa6e5d767d0d4958987605e57d85ef78c57d",
+  "commit_b": "eda175a170e223f65bc1e28268a92ac895ef1f2c",
+  "files": {
+    "README.md": {
+      "len_a": 24,
+      "len_b": 24,
+      "lcs_len": 24,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "__pycache__/git_utils.cpython-313.pyc": {
+      "len_a": 66,
+      "len_b": 66,
+      "lcs_len": 66,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "__pycache__/lcs_algo.cpython-313.pyc": {
+      "len_a": 85,
+      "len_b": 85,
+      "lcs_len": 85,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "__pycache__/reporter.cpython-313.pyc": {
+      "len_a": 74,
+      "len_b": 74,
+      "lcs_len": 74,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "git_utils.py": {
+      "len_a": 37,
+      "len_b": 37,
+      "lcs_len": 37,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "lcs_algo.py": {
+      "len_a": 55,
+      "len_b": 55,
+      "lcs_len": 55,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "reporter.py": {
+      "len_a": 38,
+      "len_b": 38,
+      "lcs_len": 38,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "requirements.txt": {
+      "len_a": 5,
+      "len_b": 5,
+      "lcs_len": 5,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "streamlit_app.py": {
+      "len_a": 141,
+      "len_b": 141,
+      "lcs_len": 141,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    },
+    "tests/test.txt": {
+      "len_a": 0,
+      "len_b": 11,
+      "lcs_len": 0,
+      "added": 11,
+      "removed": 0,
+      "similarity": 0.0
+    },
+    "tests/test_lcs.py": {
+      "len_a": 9,
+      "len_b": 9,
+      "lcs_len": 9,
+      "added": 0,
+      "removed": 0,
+      "similarity": 100.0
+    }
+  },
+  "total_added": 11,
+  "total_removed": 0,
+  "total_files": 11
+}

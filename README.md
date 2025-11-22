@@ -2,6 +2,8 @@
 
 A Streamlit app that compares two commits in a local git repository and computes per-file diffs using LCS/difflib.
 
+### Link: https://git-commit-diff-analyzer-lcs-powered.streamlit.app/
+
 ## Quickstart
 
 1. Create virtualenv and install:
